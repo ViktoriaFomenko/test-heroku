@@ -1,0 +1,17 @@
+.label {
+  font-size: 18px;
+  font-weight: 500;
+}
+.input {
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.button {
+  background-color: burlywood;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+}
